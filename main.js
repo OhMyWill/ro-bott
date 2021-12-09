@@ -49,7 +49,7 @@ const runtime = function (seconds) {
 fakenomor = '0@s.whatsapp.net'
 const gcrevoke = ["6281804680327-1621430788@g.us"]
 shp = '⬡'
-owner = "6282182623238@s.whatsapp.net"
+owner = "6282135091710@s.whatsapp.net"
 spc1 = '         '
 spc2 = '\n                           '
 spc3 = '                 '
@@ -97,10 +97,10 @@ console.log(color(`[•]`, 'aqua'), color(`Status      : Online!`, 'white'))
 console.log(color(`[•]`, 'aqua'), color(`Owner       : ${fakeyoi}`, 'white'))
 console.log(color(`< ================================================== >`, 'cyan'))
 
-    console.log(color('⎇','red'), color('Sc ini gua recode vall\nNote: jangan lupa subscribe ItsMeVall', 'yellow'))
+    console.log(color('⎇','red'), color('Sc ini gua Bikin OhMyWill\nNote: jangan lupa subscribe OhMyWill', 'yellow'))
     console.log(color('⎇','red'), color('Source code version:', 'aqua'), color(version))
     console.log(color('⎇','red'), color('Bug? Error? Suggestion? Visit here:', 'aqua'), color('https://wa.me/6282182623238'))
-    console.log(color('[RO-BOT]'), color('RO-BOT is now online!', 'aqua'))
+    console.log(color('[RO-BOT]'), color('𝙈𝙊𝙉𝘼𝘼. is now online!', 'aqua'))
     console.log(color('[CONSOLE]', 'cyan'), color('Welcome back, Owner! Hope you are doing well~', 'magenta'))
     console.log(color('⎇','green'), color(':/', 'white'))
   });
